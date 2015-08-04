@@ -5,5 +5,4 @@ this is my edit
 
 ,we are learning about git
 
-
-Time to rent a boat for go home :D
+Time to rent a boat for go home coz the city is flooded :D 
