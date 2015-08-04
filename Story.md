@@ -2,7 +2,7 @@ Once upon a time, in the office of a software development firm
 ,there are a few developers learning about Git
 
 it is raining
-
+~~~~~~~~~~
 Because of the rain, we have to rent a boat to go home :D
 We can rent Sub-Marine instead of boat lol
 
